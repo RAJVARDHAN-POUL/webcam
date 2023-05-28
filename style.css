@@ -1,0 +1,25 @@
+body
+  {
+    color:white ;
+    background:rgb(9, 192, 247);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .heading
+  {
+    width:80%;
+    font-size:22px;
+  }
+
+  #camera
+  {
+    border:2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+
+  .name_of_objects,#objectName,#accuracy
+  {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+  }
